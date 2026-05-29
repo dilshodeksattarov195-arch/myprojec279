@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneecrypt",
+        "uuid": 2705463,
+        "checksum": "qqge2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
